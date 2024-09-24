@@ -5,3 +5,4 @@ console.log(soma(2,3));
 function multiplication(num3,num3){
     return num3*num3;
 }
+console.log(multiplication(3,3));
