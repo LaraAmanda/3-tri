@@ -9,4 +9,4 @@ console.log(multiplication(3,3));
 function areaquadrado(lado){
     return lado**2;
 }
-console.log(areaquadrado(lado));
+console.log(areaquadrado(3,3));
