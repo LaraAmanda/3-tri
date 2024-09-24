@@ -11,6 +11,6 @@ function areaquadrado(lado){
 }
 console.log(areaquadrado(3));
 let areatrapezio=function(base1,base2){
-    return base1+base2*altura/2
+    return base1+base2*altura/2;
 }
 console.log(areatrapezio(1,2))
