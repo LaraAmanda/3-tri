@@ -21,14 +21,11 @@
 // console.log(media(2,3,5));
 
 let nome=['aaron','adam','amanda','ana luiza','andrew','arthur garcia','arthur henrique','caio henry','caio silva','danilo','felipe nascimento','felipe lin','felipe mayer', 'gabriela do prado','gabriela nunes','giovana','giuliana','izabela','joão henrique','joão pedro', 'julia rosa']
-let i=0;
-    while(i<10){
-    console.log(i);
-    i=i+1;
-    }
+
+
     let i=0;
-    while (i<nomes.length){
+    while (i<nome.length){
         console.log(i);
-        console.log(nomes[i]);
+        console.log(nome[i]);
         i=i+1;
     }
