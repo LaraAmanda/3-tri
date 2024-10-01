@@ -29,7 +29,8 @@ let nome=['aaron','adam','amanda','ana luiza','andrew','arthur garcia','arthur h
         console.log(nome[i]);
         i=i+1;
     }
-for (let i = 0; i < nome.length; i++) {
+for (let i = 0; i <16; i++) {
     console.log(i);
     console.log(nome[i]);
 }
+
