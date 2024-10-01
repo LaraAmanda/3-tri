@@ -26,3 +26,9 @@ let i=0;
     console.log(i);
     i=i+1;
     }
+    let i=0;
+    while (i<nomes.length){
+        console.log(i);
+        console.log(nomes[i]);
+        i=i+1;
+    }
